@@ -1,2 +1,2 @@
-# design-preview
-Preview sample design comps
+# Welcome to Rhythm Agnecy's design preview github.
+This repository is set to quickly display a static site of assests that our creative team create for private or public presentations. These wonderful presentations can be viewed at: [Rhythm Design Preview](https://rhythmagency.github.io/design-preview/)
